@@ -2,6 +2,7 @@
 This project is a Java-based console application that simulates a train ticket booking and management system. It manages passenger reservations, ticket confirmations, RAC (Reservation Against Cancellation), and a waiting list queue, just like in a real railway booking system.
 .
 
+
 🎯 Key Features
 
 Passenger Management
@@ -52,6 +53,7 @@ Passenger moved from RAC to Confirmed
 
 Passenger moved from Waiting List to RAC
 
+
 🏗️ Technical Implementation
 
 Language: Java
@@ -73,6 +75,7 @@ Queue (RAC & Waiting List)
 Set or List (Available berths tracking)
 
 Exception Handling for invalid inputs
+
 
 ⚡ Example Flow
 
